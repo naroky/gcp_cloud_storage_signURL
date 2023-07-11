@@ -1,0 +1,23 @@
+{
+  "name": "gcp_cloud_storage_signurl",
+  "version": "1.0.0",
+  "description": "Application for POC google sign URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naroky/gcp_cloud_storage_signURL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naroky/gcp_cloud_storage_signURL/issues"
+  },
+  "homepage": "https://github.com/naroky/gcp_cloud_storage_signURL#readme",
+  "dependencies": {
+    "@google-cloud/storage": "^6.11.0",
+    "express": "^4.18.2"
+  }
+}
